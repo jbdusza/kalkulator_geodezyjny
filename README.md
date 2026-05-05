@@ -8,3 +8,4 @@ Aplikacja do obliczeń geodezyjnych:
 - wcięcia
 
 Uruchomiona w Streamlit.
+https://kalkulator-geodezyjnyv2.streamlit.app/
